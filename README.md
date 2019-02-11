@@ -17,6 +17,15 @@
     //....
     Game finished!
 
-- Primera versión sin concurrencia:
+
+---
+
+## Versiones: 
+
+  - Primera versión sin concurrencia: 
+    https://github.com/VictoriaMG/PingPong/tree/1
+
+
+---
 
 > Basado en el post de [http://raulavila.com/2015/05/multithreading-1/](http://raulavila.com/2015/05/multithreading-1/)
